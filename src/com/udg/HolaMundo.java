@@ -1,3 +1,5 @@
+package com.udg;
+
 import java.util.Scanner;
 
 public class HolaMundo {
